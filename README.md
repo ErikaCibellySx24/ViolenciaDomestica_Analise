@@ -42,9 +42,8 @@ O conjunto de dados utilizado foi obtido no site da **Secretaria de Defesa Socia
 
 ## 🎯 Conclusão e Próximos Passos
 A análise revelou importantes **lacunas de dados** e padrões de recorrência da violência doméstica. Os insights gerados podem contribuir para o desenvolvimento de **políticas públicas mais assertivas**. Futuramente, pretendemos:
-- Enriquecer o estudo com dados complementares de outras fontes.
 - Criar um **dashboard interativo** para visualização dos resultados.
-- Explorar técnicas de **Machine Learning** para prever padrões de recorrência.
+- Utilizar técnicas de **Machine Learning** para prever padrões de recorrência.
 
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
